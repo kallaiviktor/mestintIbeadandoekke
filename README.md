@@ -36,6 +36,7 @@ A backtracking algoritmus egy mélységi keresést alkalmaz, amely minden lehets
 ### Solver ábra rajza
 
 
+![backtrack8queens](https://github.com/kallaiviktor/mestintIbeadandoekke/assets/44492387/6d1e7ab0-1585-49bc-bb71-2aab01d5b0fc)
 
 
 ## HillClimbingSolver osztály
@@ -55,6 +56,7 @@ A hegymászó algoritmus egy olyan megközelítést alkalmaz, amely az aktuális
 
 ### Solver ábra rajza
 
+![hillclimb8queens](https://github.com/kallaiviktor/mestintIbeadandoekke/assets/44492387/acf6257b-8fbb-429a-851e-41a768676770)
 
 
 
